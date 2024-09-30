@@ -11,8 +11,8 @@ In addition to LSTM, SARIMAX is used to predict the 2024 dengue cases based on t
 - Hyperparameter tuning for **optimal model performance**.
 - **Evaluation metrics**: Root Mean Square Error (RMSE), Mean Absolute Error (MAE), R-squared (R²), and Accuracy Score.
 - **Visualizations** of training loss, validation loss, and prediction results.
-- Predict future dengue cases based on historical and environmental data.
 
+### 2024 actual and predictive data till september 2024 have big difference. meaning this model is not good for predict dengue 
 ## Visualizations
 
 ### Actual vs. Predicted Dengue Cases
