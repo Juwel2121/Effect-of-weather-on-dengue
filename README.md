@@ -1,6 +1,6 @@
 # Dengue Prediction using LSTM
 
-This project aims to predict future dengue cases using Long Short-Term Memory (LSTM) neural networks. The model leverages historical dengue incidence data along with environmental factors such as temperature, humidity, and rainfall to assess their effect on dengue outbreaks and generate accurate predictions. By integrating weather data, the model not only forecasts dengue cases but also quantifies how variations in environmental conditions impact dengue spread.
+This project aims to predict future dengue cases using Long Short-Term Memory (LSTM) neural networks(TensorFlow). The model leverages historical dengue incidence data along with environmental factors such as temperature, humidity, and rainfall to assess their effect on dengue outbreaks and generate accurate predictions. By integrating weather data, the model not only forecasts dengue cases but also quantifies how variations in environmental conditions impact dengue spread.
 
 In addition to LSTM, SARIMAX is used to predict the 2024 dengue cases based on time-series data, ensuring robust future predictions even in the absence of future input data.
 
