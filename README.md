@@ -2,16 +2,34 @@
 
 This project aims to predict future dengue cases using Long Short-Term Memory (LSTM) neural networks. The model leverages historical dengue incidence data along with environmental factors such as temperature, humidity, and rainfall to assess their effect on dengue outbreaks and generate accurate predictions. By integrating weather data, the model not only forecasts dengue cases but also quantifies how variations in environmental conditions impact dengue spread.
 
+In addition to LSTM, SARIMAX is used to predict the 2024 dengue cases based on time-series data, ensuring robust future predictions even in the absence of future input data.
 
 ## Features
-- LSTM-based time-series prediction model
-- Preprocessing pipeline for data cleaning and normalization
-- Hyperparameter tuning for optimal model performance
-- Model training and evaluation on historical datasets
-- Visualizations of training loss and prediction results
-- Predict future dengue cases with a trained model
+- **LSTM-based time-series prediction** model for dengue outbreak forecasting.
+- **SARIMAX-based 2024 prediction** model for time-series forecasting.
+- Preprocessing pipeline for **data cleaning** and **normalization**.
+- Hyperparameter tuning for **optimal model performance**.
+- **Evaluation metrics**: Root Mean Square Error (RMSE), Mean Absolute Error (MAE), R-squared (R²), and Accuracy Score.
+- **Visualizations** of training loss, validation loss, and prediction results.
+- Predict future dengue cases based on historical and environmental data.
 
+## Visualizations
 
+### Actual vs. Predicted Dengue Cases
+![Actual vs Predict Dengue Cases](https://github.com/Juwel2121/Effect-of-weather-on-dengue/blob/main/images/actual%20vs%20predict%20dengue%20case.jpg)
+ 
+
+### RMSE vs. Epochs (Affected)
+![RMSE vs Epochs Affected](https://github.com/Juwel2121/Effect-of-weather-on-dengue/blob/main/images/RMSE%20VS%20Epochs%20affected.jpg)
+ 
+
+### Comparison of All Models on RMSE
+![Comparison All Models on RMSE](https://github.com/Juwel2121/Effect-of-weather-on-dengue/blob/main/images/comparism%20all%20model%20on%20RMSE.jpg)
+ 
+
+### Training vs. Validation Loss
+![Training vs Validation Loss](https://github.com/Juwel2121/Effect-of-weather-on-dengue/blob/main/images/training%20vs%20validation%20loss.jpg)
+ 
 
 ## Installation
 1. Clone the repository:
