@@ -1,0 +1,10 @@
+https://github.com/Juwel2121/Effect-of-weather-on-dengue (last update 30 september 2024)
+Month      Dengue-Case   Death
+January    1055                 14
+February  339                   3
+March      311                   5
+April        504                   3
+May         644                   11
+June         2669                13
+July         6521                 30
+August    16945              71

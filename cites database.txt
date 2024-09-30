@@ -1,0 +1,19 @@
+https://www.bssnews.net/news-flash/147723
+https://old.dghs.gov.bd/index.php/bd/home/5200-daily-dengue-status-report
+Bangladesh Humanitarian Situation Report No. 6 (Dengue Outbreak) 15 December 2023
+https://www.who.int/emergencies/disease-outbreak-news/item/2023-DON481
+https://dashboard.dghs.gov.bd/pages/heoc_dengue_v1.php
+https://reliefweb.int/report/bangladesh/dengue-situation-report-10-30-october-2023
+https://www.thedailystar.net/tags/dengue-fever-bangladesh
+Atia Sharmin Bonna, Shahed Rafi Pavel, Tajnuva Mehjabin, Mohammad Ali, Dengue in Bangladesh, IJID One Health, Volume 1, 2023, 100001, ISSN 2949-9151
+https://reliefweb.int/report/bangladesh/dengue-situation-report-8-16-october-2023
+https://www.aljazeera.com/news/2023/10/2/bangladesh-dengue-deaths-cross-1000-in-worst-outbreak-on-record
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10090488/
+https://en.wikipedia.org/wiki/2023_dengue_outbreak_in_Bangladesh
+https://bdnews24.com/health/8yeimvhsdy
+https://www.voanews.com/a/who-bangladesh-hit-by-worst-dengue-outbreak-on-record-/7256884.html
+
+
+
+database preprocessing:
+noise, outlair, missing value, duplicate
